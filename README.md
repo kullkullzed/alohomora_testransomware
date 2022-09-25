@@ -15,4 +15,6 @@ The list of tested ransomware on Alohomora System
 12. https://github.com/liesware/meliora
 13. https://github.com/retr00exe/pyransom
 14. https://github.com/julupu/jamsomware.git
-15. 
+15. https://github.com/back-2-hack/BWare.git
+16. https://github.com/enghossamshady/RansomWare.git
+17. https://github.com/Chibraax/Ransomware.git
