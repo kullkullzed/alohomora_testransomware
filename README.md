@@ -35,4 +35,8 @@ The list of tested ransomware on Alohomora System
 31. https://github.com/jimmy-ly00/Ransomware-PoC
 32. https://github.com/w4spy/wasper.git
 33. https://github.com/thisisnzed/Pandora.git
-34. 
+34. https://github.com/streambinder/cryptoloacker.git
+35. https://github.com/bamless/cryptor.git
+36. https://github.com/Bitwise-01/Thor.git
+37. https://github.com/gustavohenrique/ransomware.git
+38. 
