@@ -18,3 +18,7 @@ The list of tested ransomware on Alohomora System
 15. https://github.com/back-2-hack/BWare.git
 16. https://github.com/enghossamshady/RansomWare.git
 17. https://github.com/Chibraax/Ransomware.git
+18. https://github.com/LilTim0/justCry.git
+19. https://github.com/avineshwar/DeathRansom.git
+20. https://github.com/au2001-Efrei/GonnaCry.git
+21. https://github.com/LilTim0/Ice_9
