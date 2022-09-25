@@ -39,4 +39,6 @@ The list of tested ransomware on Alohomora System
 35. https://github.com/bamless/cryptor.git
 36. https://github.com/Bitwise-01/Thor.git
 37. https://github.com/gustavohenrique/ransomware.git
-38. 
+38. https://github.com/Xeroxxhah/l0ck.git
+39. https://github.com/bstnbuck/ItsSoEasy
+40. https://github.com/HuULT/Ransom0.git
