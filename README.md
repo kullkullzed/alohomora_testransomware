@@ -22,3 +22,14 @@ The list of tested ransomware on Alohomora System
 19. https://github.com/avineshwar/DeathRansom.git
 20. https://github.com/au2001-Efrei/GonnaCry.git
 21. https://github.com/LilTim0/Ice_9
+21. https://github.com/Xeroxxhah/l0ck.git
+22. https://github.com/Yosoevsky/SukiPyRansomware.git
+23. https://github.com/dkonis/PyPI-Ransomware.git
+24. https://github.com/codassassin/very-basic-ransomware.git
+25. https://github.com/nickjxhnson/ransomeware.git
+26. https://github.com/GiacomoFerro/python3-ransomware.git
+27. https://github.com/ariary/s3nake.git
+28. https://github.com/miracleexotic/baby-ransomware.git
+29. https://github.com/Kireobat/ransomware.git
+30. https://github.com/thenurhabib/ransomware.git
+31. 
