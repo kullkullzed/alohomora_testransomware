@@ -11,3 +11,8 @@ The list of tested ransomware on Alohomora System
 8. https://github.com/tweekk/RansomWare
 9. https://github.com/r3nt0n/markransom
 10. https://github.com/hackerxphantom/xransom
+11. https://github.com/BenjaminGuzman/fsociety-ransomware
+12. https://github.com/liesware/meliora
+13. https://github.com/retr00exe/pyransom
+14. https://github.com/julupu/jamsomware.git
+15. 
