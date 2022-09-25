@@ -32,4 +32,7 @@ The list of tested ransomware on Alohomora System
 28. https://github.com/miracleexotic/baby-ransomware.git
 29. https://github.com/Kireobat/ransomware.git
 30. https://github.com/thenurhabib/ransomware.git
-31. 
+31. https://github.com/DaniAffCH/Ransomware.git
+32. https://github.com/Dethada/Ransomware.git
+33. https://github.com/bstnbuck/ItsSoEasy.git
+34. 
